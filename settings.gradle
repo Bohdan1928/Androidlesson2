@@ -1,0 +1,9 @@
+include ':p0102_activitylistener'
+include ':p0101listener'
+include ':p0091_onclickbuttons'
+include ':p0081_viewbyid'
+include ':p0072_layoutprop'
+include ':p0061_layouts'
+include ':p0061myapplication'
+include ':app'
+rootProject.name = "Androidlesson2"
