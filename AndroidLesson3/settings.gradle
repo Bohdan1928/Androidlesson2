@@ -1,0 +1,3 @@
+include ':p0181_dynamiclayout3'
+include ':app'
+rootProject.name = "AndroidLesson3"
